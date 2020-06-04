@@ -1,0 +1,3 @@
+applications:
+ - name: Kamyaab_india_Voice_App_firse
+   memory: 128M
